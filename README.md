@@ -1,5 +1,5 @@
 # local to git hub
-git init
+git init \n
 creation
 git remote add origin sshLink
 git remove -v
